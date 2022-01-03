@@ -82,7 +82,7 @@ a{
 	background-color: #689cd2;
 }
 
-/* Шапка */
+/* ГГ ГЇГЄГ  */
 
 .header{ 
 	top: 0;	
@@ -108,7 +108,7 @@ a{
 	justify-content: center;
 }
 
-/* Стили */
+/* Г‘ГІГЁГ«ГЁ */
 
 .content{
 	max-width: 1330px;
@@ -216,7 +216,7 @@ visibility: hidden;
     opacity: 1;
 }	
 
-/* Картинка №1 */
+/* ГЉГ Г°ГІГЁГ­ГЄГ  В№1 */
 .items{
 }
 .items_item{
@@ -225,14 +225,14 @@ visibility: hidden;
 	justify-content: center;
 }
 
-/* Контейнер картинки */
+/* ГЉГ®Г­ГІГҐГ©Г­ГҐГ° ГЄГ Г°ГІГЁГ­ГЄГЁ */
 .items_image{
 	flex: 0 0 33%;
 	position: relative;
 	min-height:250px;
 }
 
-/* Картинка */
+/* ГЉГ Г°ГІГЁГ­ГЄГ  */
 .items_image img{
 	width: 100%;
 	height: 100%;
@@ -259,7 +259,7 @@ visibility: hidden;
 	margin: 27px 66px 1px 1px;
 }
 
-/* Нижний колонтитул */
+/* ГЌГЁГ¦Г­ГЁГ© ГЄГ®Г«Г®Г­ГІГЁГІГіГ« */
 
 .container_f{
 	max-width: 100%;
@@ -566,6 +566,10 @@ ul{
 	.header_item{	
 		font-size: 28px;	
 	}
+	
+	.header_itemG{	
+		font-size: 0px;	
+	}
 
 	.header{    
 		padding-top: 55px;
@@ -614,6 +618,10 @@ ul{
 	
 	.header_item{	
 		font-size: 29px;	
+	}
+	
+	.header_itemG{	
+		font-size: 0px;	
 	}
 	
 	.header{    
