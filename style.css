@@ -142,14 +142,6 @@ a{
 	align-items: center;
 }
 
-.Evp{
-    padding: 10px 15px;
-	font-size: 34px;
-	margin-left: 0px;
-    color: #fdd305;
-    text-shadow: 1px 2px 6px #00a43f;
-}
-
 .headerButton{
 	cursor: pointer;
 }
@@ -463,11 +455,11 @@ ul{
 	}
 	
 	.decoration{		
-		font-size: 30px;
+		font-size: 27px;
 	}
 	
 	.header_item{	
-		font-size: 30px;	
+		font-size: 27px;	
 	}
 	
 	.header_itemG{	
@@ -515,12 +507,12 @@ ul{
 	}
 	
 	.decoration{		
-		font-size: 32px;
+		font-size: 27px;
 		padding: 10px 0px;
 	}
 	
 	.header_item{	
-		font-size: 32px;	
+		font-size: 27px;	
 	}
 	
 	.header_itemG{	
