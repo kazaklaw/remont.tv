@@ -635,7 +635,7 @@ ul{
 	}
 }
 			
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 360px) {
 		.Evp{		
 		font-size: 0px;
 		margin-left: -37px;
