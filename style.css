@@ -583,6 +583,7 @@ ul{
 	
 	.items_label {
 		font-size: 34px;
+		margin: 0px 30px 0px 1px;
 	}
 	
 	.items_text {
@@ -671,7 +672,8 @@ ul{
 	}
 
 	.items_label {
-	font-size: 25px;
+		font-size: 25px;
+		margin: 0px 30px 0px 1px;
 	}
 	
 	.items_text {
